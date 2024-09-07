@@ -1,0 +1,17 @@
+
+.container {
+  padding: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.chartContainer {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
